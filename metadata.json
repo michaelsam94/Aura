@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "Offline, battery-conscious sensor-reactive live wallpaper engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
